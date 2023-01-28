@@ -1,3 +1,4 @@
+# Estimates the value of pi using the Pythagorean theorem
 import random
 import math
 def piestimate(num):
