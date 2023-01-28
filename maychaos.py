@@ -1,3 +1,4 @@
+# A script to simulate Robert May's probability theorem
 def maychaos(r, x0, num):
     for i in range(num):
         print(x0)
